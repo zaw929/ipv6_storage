@@ -1,0 +1,44 @@
+
+
+TIME:
+2020年08月02日 23:43:56
+TYPE:
+Event
+CONTENT:
+>IP [0:0:0:0:0:0:0:1]
+>ACCOUNT [admin]
+>OPERATE [Share Download file URL]
+>PATH [ROOT]
+>NAME [e.zip]
+
+TIME:
+2020年08月02日 23:44:03
+TYPE:
+Event
+CONTENT:
+>IP [0:0:0:0:0:0:0:1]
+>OPERATE [Download file By Shared URL]
+>PATH [ROOT]
+>NAME [e.zip]
+
+TIME:
+2020年08月02日 23:48:28
+TYPE:
+Event
+CONTENT:
+>IP [0:0:0:0:0:0:0:1]
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT]
+>NAME [简历demo.doc]
+
+TIME:
+2020年08月02日 23:57:16
+TYPE:
+Event
+CONTENT:
+>IP [0:0:0:0:0:0:0:1]
+>ACCOUNT [admin]
+>OPERATE [Create new folder]
+>PATH [ROOT/测试/]
+>NAME [ceshi]，CONSTRAINT [1]
